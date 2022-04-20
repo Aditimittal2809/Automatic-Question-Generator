@@ -9,3 +9,7 @@ questions) and new advances that require a large pool of questions.
 To reduce the expenses associated with manual construction of questions and to satisfy the
 need for a continuous supply of new questions, automatic question generation (AQG)
 techniques were introduced.
+
+<br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-1.jpeg" width=700><br>
+<br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-2.jpeg" width=700><br>
+<br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-3.jpeg" width=700><br>
