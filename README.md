@@ -19,6 +19,7 @@ questions) and new advances that require a large pool of questions.
 - Finally, the evaluation of student’s responses is achieved using a multi-criteria-decision-making approach. It uses a set of model answers taken from different textbooks and subject experts to evaluate the answers. 
 - Multiple measures are used to assess the answers by comparing them with this model set. The results of the profound system reveal that the automated appraisal process can reduce the manual effort of the human.
 
+## OUTPUT
 <br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-1.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-2.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Automatic-Question-Generator/blob/main/images/AQG-3.jpeg" width=700><br>
